@@ -1,3 +1,2 @@
-//This is another comment
-//from Hello Word
-console.log("Hello Word!\n");
+//This is a sample feature addition
+console.log("This is another branch!\n");
